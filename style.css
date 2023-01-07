@@ -1,0 +1,249 @@
+
+
+*{
+    margin: 0px;
+    padding: 0;
+    
+
+}
+
+
+/* -----file ---- */
+
+.file{
+    position: relative;
+    height: 75vh;
+    background-image: url("./banner/banner.png");
+    background-position: center;
+    background-size: cover;
+    
+    
+}
+.foretext h1{
+    font-size: 40px;
+    padding-bottom: 10px;
+}
+
+.foretextp{
+    text-align: right;
+    margin-left: 980px;
+    
+}
+
+.file .foretext{
+    padding-top: 20%;
+    height: 2rem;
+    text-align: right;
+    padding-right: 4rem;
+
+}
+
+
+/* --------frustration box --------- */
+
+.myimg-text{
+    display: flex;
+    justify-content: center;
+}
+.frustration-paragraph{
+    padding-top: 10px;
+}
+
+ul li{
+    list-style: none;
+}
+
+.myimg-text .img-box img{
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    
+}
+
+.check{
+    color:rgb(1, 250, 42);
+}
+.text-box{
+    padding-top: 11rem;
+    padding-left:3rem;
+}
+.fitems{
+    padding-top: 10px;
+}
+.fitem{
+    padding-top: 10px;
+}
+
+
+
+
+/* ---------targets ---------- */
+
+
+
+.targets{
+    display: flex;
+    gap: 45px;
+    
+}
+
+.Target{
+    padding-top: 80px;
+    width: 100%;
+    max-width: 700px;
+    margin:auto;
+}
+.my-targets{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.wb{
+    align-items: center;
+}
+.wb h3{
+    padding-top: 7px;
+}
+.wb p{
+    padding-top: 7px;
+}
+.web-paragraph{
+    padding-right: 9px;
+}
+.wb .target img{
+    width: 60px;
+    height: 60px;
+    padding-left: 20px;
+    align-items: center;
+    
+}
+
+/*--------------optimistic box------------- */
+
+
+.optimistic{
+    padding-top: 90px;
+}
+.optimistic .watch{
+    
+    height: 225px;
+    width: 700px;
+    background-image:linear-gradient(90deg, #720505 19.41%, rgba(241, 91, 34, 0) 100%),url(./images/watch.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    text-align: left;
+    
+}
+
+.optimistic,.divbutton{
+    padding-left: 2rem;
+}
+
+.optimistic{
+    padding-top: 4rem;
+    color: aliceblue;
+}
+
+.btn{
+    margin-top: 10px;
+    color: #ffffff;
+    background-color: rgb(162, 18, 8);
+    border: 0px;
+    width: 7rem;
+    height: 2rem;
+    border-radius: 5px ;
+    font-size: 15px;
+
+    
+}
+
+
+.btn:hover{
+    color: rgb(2, 39, 247);
+}
+.optimistic{
+    max-width: 700px;
+    margin:auto;
+}
+
+/* ---------- Discover about my tragets ---------- */
+
+
+.discovering{
+    max-width: 700px;
+    margin:auto;
+    text-align: center;
+    padding-top: 80px;
+}
+.find{
+    color: rgb(6, 20, 1);
+}
+.btn2{
+    margin-top: 20px;
+    margin-left: 200px;
+    color: #ffffff;
+    background-color: rgb(162, 18, 8);
+    border: 0px;
+    width: 18rem;
+    height: 2rem;
+    border-radius: 5px ;
+    font-size: 15px;
+    padding-top: 1rem;
+    padding-left: 1rem;
+}
+.btn2:hover{
+    color: rgb(0, 0, 0);
+}
+
+
+/* ---------Footer Section ----------- */
+
+
+.footer{
+    background: #040303;
+    margin-top: 7rem;
+    
+}
+
+.email-phone-social-box,.subscribe-box{
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+    width: 50%;
+    color: #ffffff;
+}
+.contact-box{
+    margin-left: 200px;
+}
+.subscribe-box{
+    margin-left:400px;
+}
+
+.contact-box,.social-icons{
+    display: flex;
+    
+}
+
+.email-box{
+    border: 0px;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+.eps-text{
+    padding-bottom: 1rem;
+}
+
+.icon-item{
+    padding-right: .5rem;
+    padding-left: 2px;
+}
+
+.sub2{
+    margin-bottom: 1rem;
+    font-size: 25px;
+    
+}
+.sub:hover{
+    color: rgb(2, 39, 247);
+
+}
